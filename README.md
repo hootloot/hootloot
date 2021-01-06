@@ -1,4 +1,5 @@
-#  Ryan Kim, I use Python, HTML, CSS, JavaScript, C++
+#  Ryan Kim
+## Python, JavaScript, C++, HTML, CSS
 #### Contact Me: mwkjello@gmail.com
 > Working on JavaScript and other web desgin skills
 
