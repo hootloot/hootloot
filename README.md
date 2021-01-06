@@ -3,6 +3,6 @@
 > Working on JavaScript and other web desgin skills
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenjayz&langs_count=10&theme=tokyonight&layout=compact" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hootloot&layout=compact&cache=busted" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootloot&langs_count=10&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hootloot&show_icons=true&theme=synthwave" />
 </p>
