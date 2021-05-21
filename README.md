@@ -1,7 +1,5 @@
 #  Ryan Kim
-### Python, JavaScript, C++, HTML, CSS
-#### Contact Me: mwkjello@gmail.com
-> Working on a Rasberry Pi 4 remote robot
+### Python, C++, C
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootloot&langs_count=10&theme=tokyonight&layout=compact" />
